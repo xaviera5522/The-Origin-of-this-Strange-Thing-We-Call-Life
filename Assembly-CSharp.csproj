@@ -55,50 +55,29 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Life\LifeForm.cs" />
      <Compile Include="Assets\Scripts\World\WorldProperties.cs" />
- <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
- </Reference>
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.ugui">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.ugui.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Timeline">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
- </Reference>
- <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
- </Reference>
- <Reference Include="Unity.ugui.Editor">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.ugui.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst">
  <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.ugui">
+ <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.ugui.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Mathematics">
  <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VisualStudio.Editor">
+ <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Editor">
  <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
  <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ugui.Editor">
+ <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/ScriptAssemblies/Unity.ugui.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity/2019.3.0a4/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -285,15 +264,6 @@
  </Reference>
  <Reference Include="FacebookNamedPipeClient">
  <HintPath>D:/Unity/2019.3.0a4/Editor/Data/PlaybackEngines/Facebook/SDK/7.9.4/FacebookNamedPipeClient.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.Editor">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.Tracker">
- <HintPath>D:/Git Repos/The Origin of this Strange Thing We Call Life/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/Unity/2019.3.0a4/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
