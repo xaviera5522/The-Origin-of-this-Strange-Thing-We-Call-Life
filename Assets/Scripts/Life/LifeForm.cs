@@ -78,7 +78,7 @@ public class LifeForm : MonoBehaviour
 
     void Reproduce()
     {
-        LifeForm offspring = (LifeForm)Instantiate(this, GetOffspringPosition(), Quaternion.identity);
+        LifeForm offspring = (LifeForm)Instantiate(this, GetOffspringPosition(), Quaternion.identity);//Todo Make an entity
         if(Random.Range(0f, 100f) < mutationChance)
         {
             //Spawn another LifeForm with a varied stat

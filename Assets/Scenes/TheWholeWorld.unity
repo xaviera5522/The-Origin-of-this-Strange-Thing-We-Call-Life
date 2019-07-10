@@ -330,6 +330,7 @@ MonoBehaviour:
     type: 3}
   life: []
   newBornQueue: []
+  autoMode: 0
 --- !u!4 &1844958634
 Transform:
   m_ObjectHideFlags: 0

@@ -105,9 +105,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e7d6efe4f68ddc4b85d140191f8bef6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reproductionRate: 25
+  reproductionRate: 70
   reproductionVariance: 10
-  deathRate: 25
+  deathRate: 50
   deathVariance: 20
   mutationChance: 85
   mutationChanceVariance: 5
